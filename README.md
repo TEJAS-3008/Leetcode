@@ -30,7 +30,7 @@ Example:
 | Difficulty | Solved |
 |------------|---------|
 | Easy       | 3 |
-| Medium     | 0 |
+| Medium     | 1 |
 | Hard       | 0 |
 | Total      | 0 |
 
