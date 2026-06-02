@@ -32,7 +32,7 @@ Example:
 | Easy       | 4 |
 | Medium     | 1 |
 | Hard       | 0 |
-| Total      | 0 |
+| Total      | 5 |
 
 > Progress table will be updated as I solve more problems.
 
