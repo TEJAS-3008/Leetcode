@@ -42,10 +42,10 @@ Example:
 Add your profile link here:
 
 ```text
-https://leetcode.com/u/Anarchist_008/
+https://github.com/TEJAS-3008/Leetcode
 ```
 
-## 📚 Topics Covered
+## 📚 Topics
 
 - Arrays
 - Strings
