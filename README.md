@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems as I progress through
 ## 🛠 Languages Used
 
 - C++
+- Python
 
 ## 📂 Structure
 
