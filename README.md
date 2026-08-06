@@ -18,28 +18,7 @@ This repository contains my solutions to LeetCode problems as I progress through
 
 Solutions are organized by problem number and title.
 
-Example:
-
-```text
-001-Two-Sum.cpp
-088-Merge-Sorted-Array.cpp
-121-Best-Time-to-Buy-and-Sell-Stock.cpp
-```
-
-## 📈 Progress
-
-| Difficulty | Solved |
-|------------|---------|
-| Easy       | 10 |
-| Medium     | 3 |
-| Hard       | 0 |
-| Total      | 13 |
-
-> Progress table will be updated as I solve more problems.
-
 ## 🎯 LeetCode Profile
-
-Add your profile link here:
 
 ```text
 https://github.com/TEJAS-3008/Leetcode
